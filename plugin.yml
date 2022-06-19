@@ -1,0 +1,16 @@
+name: TokoKunciUI
+main: BlusyGG\TokoKunciUI\Main
+version: 1.0.0
+api: 4.0.0
+author: BlusyGG
+description: "Menu"
+
+commands:
+  keyshop:
+    description: "Menu"
+    permission: keyshop.cmd
+
+permissions:
+  keyshop.cmd:
+    description: "Permission"
+    default: true
