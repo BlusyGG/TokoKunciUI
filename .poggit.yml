@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/angga7togk/7TogkKeyShop
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/BlusyGG/TokoKunciUI
 build-by-default: true
 branches:
 - main
